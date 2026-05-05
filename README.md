@@ -16,3 +16,4 @@ This project was developed to bridge the visibility gap between instructor avail
 *   **Data Handling**: Pandas (ETL & Grouping)
 *   **Visualization**: Plotly (Interactive Charts)
 *   **Deployment**: Streamlit Community Cloud
+*   [**Click here to view a live demo**](https://operational-visibility-dashboard.streamlit.app/)
